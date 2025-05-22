@@ -1,0 +1,81 @@
+{
+  "authorizedUsers": {
+    "120363400844541112@g.us": []
+  },
+  "groupSettings": {
+    "120363400844541112@g.us": {
+      "name": "آل ڤي ",
+      "description": "https://chat.whatsapp.com/KjanknGSvYeLHGETQfYRHu\nقمة ال🫩\nالدنيا عايزه مني ايه",
+      "created": 1747690309,
+      "welcome_enabled": true,
+      "auto_delete": false,
+      "word_filter": []
+    }
+  },
+  "userStats": {
+    "244598404317249@lid": {
+      "messages": 33,
+      "commands": 8,
+      "games_played": 1,
+      "joined_groups": 0,
+      "last_activity": 1747892908232
+    },
+    "46686781087950@lid": {
+      "messages": 15,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747893008488
+    },
+    "136691713093780@lid": {
+      "messages": 25,
+      "commands": 13,
+      "games_played": 2,
+      "joined_groups": 0,
+      "last_activity": 1747892668044
+    },
+    "116458541572349@lid": {
+      "messages": 6,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747893039812
+    },
+    "169677481373731@lid": {
+      "messages": 6,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747893044626
+    },
+    "63982748627094@lid": {
+      "messages": 5,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747892508342
+    },
+    "209685252681974@lid": {
+      "messages": 1,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747892491381
+    },
+    "277326591967474@lid": {
+      "messages": 6,
+      "commands": 1,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747892651713
+    },
+    "186745748492492@lid": {
+      "messages": 1,
+      "commands": 0,
+      "games_played": 0,
+      "joined_groups": 0,
+      "last_activity": 1747892665215
+    }
+  },
+  "welcomeMessages": {}
+}
